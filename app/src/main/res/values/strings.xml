@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tugas Satu</string>
+    <string-array name="program_study">
+        <item>Program Study</item>
+        <item>TIF</item>
+        <item>TI</item>
+        <item>DKV</item>
+    </string-array>
+    <string-array name="Kelas">
+        <item>Kelas</item>
+        <item>TIF RP</item>
+        <item>TIF RM</item>
+        <item>TIF W</item>
+    </string-array>
+</resources>
